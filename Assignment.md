@@ -41,7 +41,7 @@
 #### Risk Management
 * William Droge
 * Andrew Funk
-* Dillion
+* Dillion Costlow
 
 #### Vulnerability Analysis
 * Alex White
