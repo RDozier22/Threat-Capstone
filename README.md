@@ -1,8 +1,13 @@
 # Threat-Capstone
 SecureSet 2019 Red Cohort Threat Capstone Project
 
-<details><summary><strong>Group Orginization</strong></summary>
+### Assignment
 
+### Summary
+
+
+### Group Orginization
+---
 #### Lead: 
 * Ryan Dozier
 #### Co-lead: 
@@ -54,6 +59,4 @@ SecureSet 2019 Red Cohort Threat Capstone Project
   <li>Amilcar Spezia</li>
   <li>Steven Wilkins</li>
 </ul>
-</details>
-
 </details>
