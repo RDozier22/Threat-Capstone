@@ -1,7 +1,7 @@
 # Threat-Capstone
 SecureSet 2019 Red Cohort Threat Capstone Project
 
-### Group Orginization
+<details><summary><strong>Group Orginization</strong></summary>
 
 #### Lead: 
 * Ryan Dozier
@@ -16,7 +16,7 @@ SecureSet 2019 Red Cohort Threat Capstone Project
 </ul>
 </details>
 
-<details><summary>Network Engineer Team</summary>
+<details><summary><strong>Network Engineer Team</strong></summary>
 <ul>
   <li>Jose Martinez</li>
   <li>Dequarius Leggett</li>
@@ -24,7 +24,7 @@ SecureSet 2019 Red Cohort Threat Capstone Project
 </ul>
 </details>
 
-<details><summary>Aquisitions Team</summary>
+<details><summary><strong/>Aquisitions Team</strong></summary>
 <ul>
   <li>Kyle Kraus</li>
   <li>Christopher Horn</li>
@@ -32,7 +32,7 @@ SecureSet 2019 Red Cohort Threat Capstone Project
 </ul>
 </details>
 
-<details><summary>Malware Forensics Team</summary>
+<details><summary><strong>Malware Forensics Team</strong></summary>
 <ul>
   <li>JonTyler Gutierrez</li>
   <li>Matt Fournier</li>
@@ -40,7 +40,7 @@ SecureSet 2019 Red Cohort Threat Capstone Project
 </ul>
 </details>
 
-<details><summary>Risk Management Team</summary>
+<details><summary><strong>Risk Management Team</strong></summary>
 <ul>
   <li>William Droge</li>
   <li>Andrew Funk</li>
@@ -48,10 +48,12 @@ SecureSet 2019 Red Cohort Threat Capstone Project
 </ul>
 </details>
 
-<details><summary>Vulnerability Analysis Team</summary>
+<details><summary><strong>Vulnerability Analysis Team</strong></summary>
 <ul>
   <li>Alex White</li>
   <li>Amilcar Spezia</li>
   <li>Steven Wilkins</li>
 </ul>
+</details>
+
 </details>
