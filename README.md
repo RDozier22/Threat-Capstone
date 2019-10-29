@@ -8,7 +8,7 @@ SecureSet 2019 Red Cohort Threat Capstone Project
 #### Co-lead: 
 * Sean McKnight
 
-<details><summary>Threat Analysis Team</summary>
+<details><summary><strong>Threat Analysis Team</strong></summary>
 <ul>
   <li>Daniel Wayland</li>
   <li>Kayla Willeford</li>
